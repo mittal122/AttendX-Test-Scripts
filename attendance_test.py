@@ -5,6 +5,6 @@ student = "Rahul"
 attendance = True
 
 if attendance:
-    print(student + " Attendance Marked")
+    print(student + " Atundence Marked")
 else:
     print("Attendance Failed")
